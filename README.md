@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 I am a C# developer
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamuragin03)](https://github.com/zamuragin03/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamuragin03)](https://github.com/anuraghazra/github-readme-stats)
 
 Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zamuragin03&theme=solarized_dark)
