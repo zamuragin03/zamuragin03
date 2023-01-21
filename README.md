@@ -4,8 +4,6 @@
 
 I am a C# developer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/zamuragin03/github-readme-stats)
-
 Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zamuragin03&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zamuragin03&theme=solarized_dark)
