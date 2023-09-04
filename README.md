@@ -2,7 +2,7 @@
 ## Hello, there, my name is Igor, and Iam sophomore of the MISIS;
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
-I am a C# developer
+I am a python developer
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zamuragin03&theme=solarized_dark)
