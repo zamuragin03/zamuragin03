@@ -1,5 +1,5 @@
 
-## Hello, there, my name is Igor, and nobody caresabout my education;
+## Hello, there, my name is Igor, and nobody cares about my education;
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 I am a python developer
