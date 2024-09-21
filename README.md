@@ -1,8 +1,6 @@
 
-## Hello, there, my name is Igor, and nobody cares about my education;
+## I
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-
-I am a python/js/ts developer
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zamuragin03&theme=solarized_dark)
@@ -11,7 +9,7 @@ I am a python/js/ts developer
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zamuragin03&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zamuragin03&theme=solarized_dark)
 
-if you want to reach me, text me in 
-Telegram : @igor_just_igor
+Tg : @igor_just_igor
 email: zamuragin03@gmail.com
+
 
